@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=sorryjs&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=sorryjs&show_icons=true&theme=radical)
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=sorryjs&theme=flat&column=6) -->
 
