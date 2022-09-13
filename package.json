@@ -1,0 +1,27 @@
+{
+  "name": "sorryjs",
+  "version": "1.0.2",
+  "description": "sorryjs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d examples/dist/index.html",
+    "publish-demo": "npm run build && npm run deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sorryjs/sorryjs.git"
+  },
+  "keywords": [
+    "sorryjs"
+  ],
+  "author": "sorryjs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sorryjs/sorryjs/issues"
+  },
+  "homepage": "https://github.com/sorryjs/sorryjs#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
